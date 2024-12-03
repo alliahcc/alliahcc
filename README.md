@@ -1,28 +1,9 @@
-<div align="center">Some test</div>
+<h1 align="center">Alliah Alexis Cinco</h1>
+## 🎓 Education: 2nd year BSIT student at New Era University
+## 📃 Certifications
+| Certificate | Issued by | Date Issued |
+|---|---|---|
+| Oracle Cloud Infrastructure 2024 Certified Foundations Associate | Oracle University | Novermber 29, 2024 |                                                                         
+## Language and Tools
+SQL, Figma, HTML, Java
 
-<table>
-<thead>
-<tr>
-<th style="text-align:left">Tables</th>
-<th style="text-align:center">Are</th>
-<th style="text-align:right">Cool</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left">col 3 is</td>
-<td style="text-align:center">right-aligned</td>
-<td style="text-align:right">$1600</td>
-</tr>
-<tr>
-<td style="text-align:left">col 2 is</td>
-<td style="text-align:center">centered</td>
-<td style="text-align:right">$12</td>
-</tr>
-<tr>
-<td style="text-align:left">zebra stripes</td>
-<td style="text-align:center">are neat</td>
-<td style="text-align:right">$1</td>
-</tr>
-</tbody>
-</table>
