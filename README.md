@@ -1,5 +1,4 @@
-## 
-<h1 align="center">Alliah Alexis Cinco</h1>
+## Alliah Alexis Cinco
 ## 🎓 Education
 2nd year BSIT student at New Era University
 ## 📃 Certifications
