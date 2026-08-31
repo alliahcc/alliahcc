@@ -28,4 +28,4 @@
 </div>
 
 ## 💻 Languages and Tools
-HTML, CSS, Javascript, PHP, Python, Bootstrap, MySQL
+HTML, CSS, Java, JavaScript, PHP, Python, Bootstrap, MySQL
