@@ -1,7 +1,7 @@
 <h1 align="center">Alliah Alexis Cinco</h1>
 
 ## 🎓 Education
-3rd Year BSIT Student
+4th Year BSIT Student
 
 <h3>📜 Certifications</h3>
 <div align="center">
